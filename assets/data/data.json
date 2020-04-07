@@ -1,0 +1,17 @@
+{
+  "login": {
+    "username": "alpinnz",
+    "password": "12345",
+    "idUser": "12323231244"
+  },
+  "users": {
+    "id": "12323231244",
+    "firstName": "Alfin",
+    "lastName": "NoviAji",
+    "email": "alpinnz@gmail.com",
+    "phone": "1234",
+    "bio": "mybio",
+    "avatar": "profile.jpg",
+    "job": "Dev"
+  }
+}
